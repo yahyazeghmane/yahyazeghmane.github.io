@@ -1,0 +1,18 @@
+/* Apply border-radius to the image with a class selector */
+.custom-rounded-image {
+    border-radius: 50%;
+}
+.card {
+    border: solid 1px rgb(238, 236, 236);
+    padding: 10px;
+    margin-bottom: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card .campany{
+    font-weight: bold;
+}
+
+.body_desc{
+    font-style: italic;
+}
